@@ -1,0 +1,21 @@
+{
+  "name": "lynkker",
+  "version": "0.1.0",
+  "description": "Desktop admin app for lynkker",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron-webpack dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^2.0.4",
+    "electron-webpack": "^2.1.2",
+    "webpack": "^4.16.0"
+  },
+  "dependencies": {
+    "vue": "^2.5.16",
+    "vue-loader": "^15.2.4",
+    "vue-template-compiler": "^2.5.16"
+  }
+}
